@@ -1,0 +1,6 @@
+@trem_autonomo_HostAddress = http://localhost:5142
+
+GET {{trem_autonomo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
