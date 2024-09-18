@@ -41,6 +41,8 @@ a calculadora retorna a quantidade de horas trabalhadas.
     }
   ]
 }
+```
+
 e calcula as horas trabalhadas.
 - **Testes Unitários**: Garantem a integridade e o correto funcionamento da API.
 
@@ -70,12 +72,14 @@ Recebe um objeto para calcular as horas trabalhadas.
     }
   ]
 }
+```
 
 #### Exemplo de Resposta
 ```json
 {
   "08:00"
 }
+```
 
 ## Como Executar o Projeto
 
